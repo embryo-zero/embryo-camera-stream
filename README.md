@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Camera Stream
+
+**Embryo Camera Stream** is Embryo-Zero's fork of [go2rtc](https://github.com/AlexxIT/go2rtc), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <h1 align="center">
   <a href="https://github.com/AlexxIT/go2rtc">
     <img src="./website/images/logo.gif" alt="go2rtc - GitHub">
